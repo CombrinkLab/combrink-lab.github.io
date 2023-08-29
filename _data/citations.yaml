@@ -1,60 +1,194 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3389/fevo.2023.1126149
+  title: DNA virome composition of two sympatric wild felids, bobcat (Lynx rufus)
+    and puma (Puma concolor) in Sonora, Mexico
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Natalie Payne
+  - Leigh Combrink
+  - Simona Kraberger
+  - Rafaela S. Fontenele
+  - Kara Schmidlin
+  - Ivonne Cassaigne
+  - Melanie Culver
+  - Arvind Varsani
+  - Koenraad Van Doorslaer
+  publisher: Frontiers in Ecology and Evolution
+  date: '2023-03-09'
+  link: https://doi.org/gsnjwr
+  orcid: 0000-0001-8753-6227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3389/fmicb.2023.1092216
+  title: 'Best practice for wildlife gut microbiome research: A comprehensive review
+    of methodology for 16S rRNA gene investigations'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Leigh Combrink
+  - Ian R. Humphreys
+  - Quinn Washburn
+  - Holly K. Arnold
+  - Keaton Stagaman
+  - Kristin D. Kasschau
+  - Anna E. Jolles
+  - Brianna R. Beechler
+  - Thomas J. Sharpton
+  publisher: Frontiers in Microbiology
+  date: '2023-02-22'
+  link: https://doi.org/gsnjws
+  orcid: 0000-0001-8753-6227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.mib.2021.01.003
+  title: "Erratum to \u201CHarnessing the gut microbiome in the fight against anthelminthic\
+    \ drug resistance\u201D [Curr. Opin. Microbiol. 53 (February) (2020) 26\u2013\
+    34]"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Thomas J Sharpton
+  - Leigh Combrink
+  - Holly K Arnold
+  - Christopher A Gaulke
+  - Michael Kent
+  publisher: Current Opinion in Microbiology
+  date: '2021-08-01'
+  link: https://doi.org/gsnjwt
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-73236-4
+  title: 'Habitat preferences of Southern Ground-hornbills in the Kruger National
+    Park: implications for future conservation measures'
+  authors:
+  - Leigh Combrink
+  - Hendrik J. Combrink
+  - "Andr\xE9 J. Botha"
+  - Colleen T. Downs
+  publisher: Scientific Reports
+  date: '2020-10-01'
+  link: https://doi.org/gsnjwv
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2019.0811
+  title: Age of first infection across a range of parasite taxa in a wild mammalian
+    population
+  authors:
+  - Leigh Combrink
+  - Caroline K. Glidden
+  - Bree R. Beechler
+  - Bryan Charleston
+  - Anson V. Koehler
+  - Danielle Sisson
+  - Robin B. Gasser
+  - Abdul Jabbar
+  - Anna E. Jolles
+  publisher: Biology Letters
+  date: '2020-02-01'
+  link: https://doi.org/gsnjww
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mib.2020.01.017
+  title: Harnessing the gut microbiome in the fight against anthelminthic drug resistance
+  authors:
+  - Thomas J Sharpton
+  - Leigh Combrink
+  - Holly K Arnold
+  - Christopher A Gaulke
+  - Michael Kent
+  publisher: Current Opinion in Microbiology
+  date: '2020-02-01'
+  link: https://doi.org/gsnjwx
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4102/koedoe.v59i1.1438
+  title: Habitat structure and diversity influence the nesting success of an endangered
+    large cavity-nesting bird, the Southern Ground-hornbill
+  authors:
+  - Leigh Combrink
+  - Hendrik J. Combrink
+  - "Andr\xE9 J. Botha"
+  - Colleen T. Downs
+  publisher: Koedoe
+  date: '2017-11-17'
+  link: https://doi.org/gcn9d2
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jtherbio.2017.03.003
+  title: Nest temperature fluctuations in a cavity nester, the southern ground-hornbill
+  authors:
+  - L. Combrink
+  - H.J. Combrink
+  - A.J. Botha
+  - C.T. Downs
+  publisher: Journal of Thermal Biology
+  date: '2017-05-01'
+  link: https://doi.org/gbgwkp
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ece3.2787
+  title: 'Re-establishing the pecking order: Niche models reliably predict suitable
+    habitats for the reintroduction of red-billed oxpeckers'
+  authors:
+  - Riddhika Kalle
+  - Leigh Combrink
+  - Tharmalingam Ramesh
+  - Colleen T. Downs
+  publisher: Ecology and Evolution
+  date: '2017-02-23'
+  link: https://doi.org/f92mpz
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2989/00306525.2015.1047808
+  title: Current conservation status of the Blue Swallow <i>Hirundo atrocaerulea</i>
+    Sundevall 1850 in Africa
+  authors:
+  - Steven W Evans
+  - Ara Monadjem
+  - Lizanne Roxburgh
+  - Andrew E McKechnie
+  - Ellizabeth M Baker
+  - Robert B Kizungu
+  - Ian T Little
+  - Fadzai Matsvimbo
+  - Ronald K Mulwa
+  - Daniel Mwizabi
+  - Dianah Nalwanga
+  - Kariuki Ndang'ang'a
+  - Leigh Combrink
+  publisher: Ostrich
+  date: '2015-07-30'
+  link: https://doi.org/f7tm3j
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4102/koedoe.v57i1.1316
+  title: Feeding preferences of Oxpeckers in Kruger National Park, South Africa
+  authors:
+  - Mduduzi Ndlovu
+  - Leigh Combrink
+  publisher: Koedoe
+  date: '2015-03-25'
+  link: https://doi.org/gsnjwz
+  orcid: 0000-0001-8753-6227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2989/00306525.2012.757253
+  title: Population estimates of three vulture species in Kruger National Park, South
+    Africa
+  authors:
+  - Campbell Murn
+  - Leigh Combrink
+  - G Scott Ronaldson
+  - Charles Thompson
+  - "Andr\xE9 Botha"
+  publisher: Ostrich
+  date: '2013-01-25'
+  link: https://doi.org/gdcfw2
+  orcid: 0000-0001-8753-6227
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -70,9 +204,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -89,21 +220,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
