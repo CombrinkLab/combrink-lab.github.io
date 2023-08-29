@@ -1,7 +1,7 @@
 ---
 ---
 
-# Combrink-Lab's Website
+# Welcome to the Combrink Lab at The University of Arizona
 
 An engaging 1-3 sentence description of your lab.
 
