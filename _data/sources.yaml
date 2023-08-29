@@ -2,3 +2,30 @@
 #
 - id:  doi:10.3389/fevo.2023.1126149 
   image: https://www.frontiersin.org/files/Articles/1126149/fevo-11-1126149-HTML/image_m/fevo-11-1126149-g001.jpg
+
+- id: doi:10.3389/fmicb.2023.1092216 
+  image: https://www.frontiersin.org/files/Articles/1092216/fmicb-14-1092216-HTML/image_m/fmicb-14-1092216-g001.jpg
+
+- id:  doi:10.1016/j.mib.2021.01.003 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369527420300217-gr1.jpg
+
+- id: doi:10.1038/s41598-020-73236-4 
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-73236-4/MediaObjects/41598_2020_73236_Fig1_HTML.png
+
+- id: doi:10.1016/j.mib.2020.01.017 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369527420300217-gr1.jpg
+
+- id: doi:10.1098/rsbl.2019.0811 
+  image: https://royalsocietypublishing.org/cms/asset/8f0a2a24-c6fa-43c9-9725-17176d358b89/rsbl20190811f01.jpg
+
+- id: doi:10.4102/koedoe.v59i1.1438 
+  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1438/2084/11298
+
+- id: doi:10.1016/j.jtherbio.2017.03.003 
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0306456516303023-gr2.jpg
+
+- id: doi:10.1002/ece3.2787 
+  image: https://onlinelibrary.wiley.com/cms/asset/c299d40b-6c04-4b8c-b361-d4637949e103/ece32787-fig-0001-m.jpg
+
+- id: doi:10.4102/koedoe.v57i1.1316  
+  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1316/1840/9352
