@@ -3,6 +3,7 @@ name: Leigh Combrink
 image: images/LC_website - Leigh Combrink.jpg
 role: pi
 aliases:
+  - Leigh Combrink
   - L. Combrink
   - L Combrink
   - L. Potter
