@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome, embrace, and are strengthened by diverse views and experiences of all team members. Our lab is comprised of compassionate scientists who foster a welcoming, inclusive, and healthy environment. We define success individually for each team member, and we challenge each other to develop and pursue individual passions.
 
 {% include section.html %}
 
