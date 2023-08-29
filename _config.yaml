@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: Combrink-Lab
+title: Combrink Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+description: Research group at The University of Arizona.
+header: images/IMG_6998.jpg
+footer: images/IMG_6998.jpg
 
 # site social media and other links
 links:
-  email: contact@Combrink-Lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: leighcombrink@arizona.edu
+  orcid: 0000-0001-8753-6227
+  #google-scholar: ETJoidYAAAAJ
   github: Combrink-Lab
-  twitter: Combrink-Lab
-  youtube: Combrink-Lab
+  #twitter: Combrink-Lab
+  #youtube: Combrink-Lab
 
 ### jekyll settings
 
