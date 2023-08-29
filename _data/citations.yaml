@@ -37,8 +37,9 @@
   date: '2023-02-22'
   link: https://doi.org/gsnjws
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/1092216/fmicb-14-1092216-HTML/image_m/fmicb-14-1092216-g001.jpg
 - id: doi:10.1016/j.mib.2021.01.003
   title: "Erratum to \u201CHarnessing the gut microbiome in the fight against anthelminthic\
     \ drug resistance\u201D [Curr. Opin. Microbiol. 53 (February) (2020) 26\u2013\
@@ -53,8 +54,9 @@
   date: '2021-08-01'
   link: https://doi.org/gsnjwt
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369527420300217-gr1.jpg
 - id: doi:10.1038/s41598-020-73236-4
   title: 'Habitat preferences of Southern Ground-hornbills in the Kruger National
     Park: implications for future conservation measures'
@@ -67,8 +69,9 @@
   date: '2020-10-01'
   link: https://doi.org/gsnjwv
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-73236-4/MediaObjects/41598_2020_73236_Fig1_HTML.png
 - id: doi:10.1098/rsbl.2019.0811
   title: Age of first infection across a range of parasite taxa in a wild mammalian
     population
@@ -86,8 +89,9 @@
   date: '2020-02-01'
   link: https://doi.org/gsnjww
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://royalsocietypublishing.org/cms/asset/8f0a2a24-c6fa-43c9-9725-17176d358b89/rsbl20190811f01.jpg
 - id: doi:10.1016/j.mib.2020.01.017
   title: Harnessing the gut microbiome in the fight against anthelminthic drug resistance
   authors:
@@ -100,8 +104,9 @@
   date: '2020-02-01'
   link: https://doi.org/gsnjwx
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1369527420300217-gr1.jpg
 - id: doi:10.4102/koedoe.v59i1.1438
   title: Habitat structure and diversity influence the nesting success of an endangered
     large cavity-nesting bird, the Southern Ground-hornbill
@@ -114,8 +119,9 @@
   date: '2017-11-17'
   link: https://doi.org/gcn9d2
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1438/2084/11298
 - id: doi:10.1016/j.jtherbio.2017.03.003
   title: Nest temperature fluctuations in a cavity nester, the southern ground-hornbill
   authors:
@@ -127,8 +133,9 @@
   date: '2017-05-01'
   link: https://doi.org/gbgwkp
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0306456516303023-gr2.jpg
 - id: doi:10.1002/ece3.2787
   title: 'Re-establishing the pecking order: Niche models reliably predict suitable
     habitats for the reintroduction of red-billed oxpeckers'
@@ -141,8 +148,9 @@
   date: '2017-02-23'
   link: https://doi.org/f92mpz
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/c299d40b-6c04-4b8c-b361-d4637949e103/ece32787-fig-0001-m.jpg
 - id: doi:10.2989/00306525.2015.1047808
   title: Current conservation status of the Blue Swallow <i>Hirundo atrocaerulea</i>
     Sundevall 1850 in Africa
@@ -175,8 +183,9 @@
   date: '2015-03-25'
   link: https://doi.org/gsnjwz
   orcid: 0000-0001-8753-6227
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1316/1840/9352
 - id: doi:10.2989/00306525.2012.757253
   title: Population estimates of three vulture species in Kruger National Park, South
     Africa
