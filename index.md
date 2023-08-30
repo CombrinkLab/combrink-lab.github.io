@@ -1,9 +1,9 @@
 ---
 ---
 
-# Welcome to the Combrink Lab at The University of Arizona
+# Welcome to the Combrink Lab at the School of Natural Resources, The University of Arizona
 
-An engaging 1-3 sentence description of your lab.
+This site is under construction, check back soon.
 
 {% include section.html %}
 
