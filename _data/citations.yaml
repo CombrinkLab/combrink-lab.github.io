@@ -121,7 +121,6 @@
   orcid: 0000-0001-8753-6227
   plugin: sources.py
   file: sources.yaml
-  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1438/2084/11298
 - id: doi:10.1016/j.jtherbio.2017.03.003
   title: Nest temperature fluctuations in a cavity nester, the southern ground-hornbill
   authors:
@@ -185,7 +184,6 @@
   orcid: 0000-0001-8753-6227
   plugin: sources.py
   file: sources.yaml
-  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1316/1840/9352
 - id: doi:10.2989/00306525.2012.757253
   title: Population estimates of three vulture species in Kruger National Park, South
     Africa
