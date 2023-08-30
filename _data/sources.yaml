@@ -19,7 +19,7 @@
   image: https://royalsocietypublishing.org/cms/asset/8f0a2a24-c6fa-43c9-9725-17176d358b89/rsbl20190811f01.jpg
 
 - id: doi:10.4102/koedoe.v59i1.1438 
-  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1438/2084/11298
+  #image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1438/2084/11298
 
 - id: doi:10.1016/j.jtherbio.2017.03.003 
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0306456516303023-gr2.jpg
@@ -28,4 +28,4 @@
   image: https://onlinelibrary.wiley.com/cms/asset/c299d40b-6c04-4b8c-b361-d4637949e103/ece32787-fig-0001-m.jpg
 
 - id: doi:10.4102/koedoe.v57i1.1316  
-  image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1316/1840/9352
+  #image: https://koedoe.co.za/index.php/koedoe/article/viewFile/1316/1840/9352
