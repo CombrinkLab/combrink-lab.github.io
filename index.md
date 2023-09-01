@@ -15,7 +15,7 @@ I changed some text here. Lorem ipsum dolor sit amet, consectetur adipiscing eli
 
 {%
   include button.html
-  link="research"
+  link="Publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,8 +27,8 @@ I changed some text here. Lorem ipsum dolor sit amet, consectetur adipiscing eli
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="Publications"
+  title="Our publications"
   text=text
 %}
 
