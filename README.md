@@ -1,7 +1,7 @@
 
-# Combrink Lab's Website
+# Combrink Lab Website
 
-Welcome to the Combrink Lab at the School of Natural Resources and the Environment, The University of Arizona
+Welcome to the Combrink WildOmics Lab in the School of Natural Resources and the Environment, The University of Arizona
 
 Visit **[combrink-lab.github.io](https://combrink-lab.github.io)** 🚀
 
